@@ -8,8 +8,10 @@
 4. Para(num<--1, num<=10, 1) haga
 5. // empieza en 1, itera hasta que num sea menor o igual a 10, incrementos de 1
 5.     Escribir num
-8. Fin_Para 
+8. Fin_Para
 9. Fin
+
+
 
 // salida
 // 1
